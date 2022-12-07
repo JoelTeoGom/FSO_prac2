@@ -1,0 +1,161 @@
+StringArg: pilota3
+StringArg: 65557
+StringArg: 34
+StringArg: 50
+StringArg: 21.000000, 3.000000, 3.000000
+StringArg: 20.000000, 5.000000, 5.000000
+StringArg: -1.000000, 1.000000, 1.000000
+StringArg: 0.300000, -0.500000, -0.500000
+StringArg: 4
+StringArg: 21, 3, 3
+StringArg: 20, 5, 5
+StringArg: 25
+StringArg: 20
+StringArg: 27
+StringArg: 50
+StringArg: 65556
+Pos_f: 21.000000
+Pos_f: 3.000000
+Pos_f: 3.000000
+Pos_c: 20.000000
+Pos_c: 5.000000
+Pos_c: 5.000000
+Vel_f: -1.000000Vel_f: 1.000000Vel_f: 1.000000Vel_c: 0.300000Vel_c: -0.500000Vel_c: -0.500000oejwaopefjawopeijfaStringArg: pilota3
+StringArg: 65557
+StringArg: 34
+StringArg: 50
+StringArg: 21.000000, 3.000000, 3.000000
+StringArg: 20.000000, 5.000000, 5.000000
+StringArg: -1.000000, 1.000000, 1.000000
+StringArg: 0.300000, -0.500000, -0.500000
+StringArg: 4
+StringArg: 21, 3, 3
+StringArg: 20, 5, 5
+StringArg: 25
+StringArg: 20
+StringArg: 27
+StringArg: 50
+StringArg: 65556
+Pos_f: 21.000000
+Pos_f: 3.000000
+Pos_f: 3.000000
+Pos_c: 20.000000
+Pos_c: 5.000000
+Pos_c: 5.000000
+Vel_f: -1.000000Vel_f: 1.000000Vel_f: 1.000000Vel_c: 0.300000Vel_c: -0.500000Vel_c: -0.500000oejwaopefjawopeijfaStringArg: pilota3
+StringArg: 65557
+StringArg: 34
+StringArg: 50
+StringArg: 21.000000, 3.000000, 3.000000
+StringArg: 20.000000, 5.000000, 5.000000
+StringArg: -1.000000, 1.000000, 1.000000
+StringArg: 0.300000, -0.500000, -0.500000
+StringArg: 4
+StringArg: 21, 3, 3
+StringArg: 20, 5, 5
+StringArg: 25
+StringArg: 20
+StringArg: 27
+StringArg: 50
+StringArg: 65556
+Pos_f: 21.000000
+Pos_f: 3.000000
+Pos_f: 3.000000
+Pos_c: 20.000000
+Pos_c: 5.000000
+Pos_c: 5.000000
+Vel_f: -1.000000Vel_f: 1.000000Vel_f: 1.000000Vel_c: 0.300000Vel_c: -0.500000Vel_c: -0.500000oejwaopefjawopeijfaStringArg: pilota3
+StringArg: 65557
+StringArg: 34
+StringArg: 50
+StringArg: 21.000000, 3.000000, 3.000000
+StringArg: 20.000000, 5.000000, 5.000000
+StringArg: -1.000000, 1.000000, 1.000000
+StringArg: 0.300000, -0.500000, -0.500000
+StringArg: 4
+StringArg: 21, 3, 3
+StringArg: 20, 5, 5
+StringArg: 25
+StringArg: 20
+StringArg: 27
+StringArg: 50
+StringArg: 65556
+Pos_f: 21.000000
+Pos_f: 3.000000
+Pos_f: 3.000000
+Pos_c: 20.000000
+Pos_c: 5.000000
+Pos_c: 5.000000
+Vel_f: -1.000000Vel_f: 1.000000Vel_f: 1.000000Vel_c: 0.300000Vel_c: -0.500000Vel_c: -0.500000oejwaopefjawopeijfaStringArg: pilota3
+StringArg: 65557
+StringArg: 34
+StringArg: 50
+StringArg: 21.000000, 3.000000, 3.000000
+StringArg: 20.000000, 5.000000, 5.000000
+StringArg: -1.000000, 1.000000, 1.000000
+StringArg: 0.300000, -0.500000, -0.500000
+StringArg: 4
+StringArg: 21, 3, 3
+StringArg: 20, 5, 5
+StringArg: 25
+StringArg: 20
+StringArg: 27
+StringArg: 50
+StringArg: 65556
+Pos_f: 21.000000
+Pos_f: 3.000000
+Pos_f: 3.000000
+Pos_c: 20.000000
+Pos_c: 5.000000
+Pos_c: 5.000000
+Vel_f: -1.000000Vel_f: 1.000000Vel_f: 1.000000Vel_c: 0.300000Vel_c: -0.500000Vel_c: -0.500000oejwaopefjawopeijfaStringArg: pilota3
+StringArg: 65557
+StringArg: 34
+StringArg: 50
+StringArg: 21.000000, 3.000000, 3.000000
+StringArg: 20.000000, 5.000000, 5.000000
+StringArg: -1.000000, 1.000000, 1.000000
+StringArg: 0.300000, -0.500000, -0.500000
+StringArg: 4
+StringArg: 21, 3, 3
+StringArg: 20, 5, 5
+StringArg: 25
+StringArg: 20
+StringArg: 27
+StringArg: 50
+StringArg: 65556
+Assertion failed: (adr != (void*)-1), function map_mem, file memoria.c, line 84.
+oejwaopefjawopeijfaStringArg: pilota3
+StringArg: 65557
+StringArg: 34
+StringArg: 50
+StringArg: 21.000000, 3.000000, 3.000000
+StringArg: 20.000000, 5.000000, 5.000000
+StringArg: -1.000000, 1.000000, 1.000000
+StringArg: 0.300000, -0.500000, -0.500000
+StringArg: 4
+StringArg: 21, 3, 3
+StringArg: 20, 5, 5
+StringArg: 25
+StringArg: 20
+StringArg: 27
+StringArg: 50
+StringArg: 65556
+Assertion failed: (adr != (void*)-1), function map_mem, file memoria.c, line 84.
+oejwaopefjawopeijfaStringArg: pilota3
+StringArg: 65557
+StringArg: 34
+StringArg: 50
+StringArg: 21.000000, 3.000000, 3.000000
+StringArg: 20.000000, 5.000000, 5.000000
+StringArg: -1.000000, 1.000000, 1.000000
+StringArg: 0.300000, -0.500000, -0.500000
+StringArg: 4
+StringArg: 21, 3, 3
+StringArg: 20, 5, 5
+StringArg: 25
+StringArg: 20
+StringArg: 27
+StringArg: 50
+StringArg: 65556
+Assertion failed: (adr != (void*)-1), function map_mem, file memoria.c, line 84.

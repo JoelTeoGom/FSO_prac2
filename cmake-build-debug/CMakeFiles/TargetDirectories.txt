@@ -1,0 +1,3 @@
+/Users/massanaroger/Documents/2n any/Sistemes_operatius/Prac 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/massanaroger/Documents/2n any/Sistemes_operatius/Prac 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/massanaroger/Documents/2n any/Sistemes_operatius/Prac 2/cmake-build-debug/CMakeFiles/Prac_2.dir

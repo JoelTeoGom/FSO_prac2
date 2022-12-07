@@ -1,0 +1,7 @@
+# ninja log v5
+1	130	1652028116803194289	CMakeFiles/Prac_2.dir/mur0/winsuport.c.o	3c471161a7cd23c3
+0	129	1648535928167450545	CMakeFiles/Prac_2.dir/prac2_part0/main.c.o	55f79dea1a862440
+1	132	1652028116805962158	CMakeFiles/Prac_2.dir/mur0/mur1.c.o	1c34d2057d8fae8
+0	46	1652285674937271726	build.ninja	dd01f2f7ca432271
+2	143	1652345731202793143	CMakeFiles/Prac_2.dir/mur3/pilota3.c.o	1435c042b49884e2
+1	146	1652345731207732570	CMakeFiles/Prac_2.dir/mur0/mur1.c.o	1c34d2057d8fae8

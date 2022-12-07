@@ -1,0 +1,21 @@
+numero pilotes joc: 1
+index: 0
+numero pilotes joc: 2
+index: 1
+numero pilotes joc: 3
+index: 2
+numero pilotes joc: 4
+index: 3
+resta de pilotes en joc: 5
+resta de pilotes en joc: 4
+numero pilotes joc: 3
+index: 4
+resta de pilotes en joc: 4
+numero pilotes joc: 3
+index: 5
+numero pilotes joc: 4
+index: 6
+resta de pilotes en joc: 5
+numero pilotes joc: 4
+index: 7
+resta de pilotes en joc: 5
